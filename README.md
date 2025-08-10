@@ -8,4 +8,4 @@ Final-year CSE student in Chennai focused on MERN stack development
 
 ### Skills and Tools
 
-JavaScript | React | Node.js | Express.js | MongoDB | HTML | CSS | Git | GitHub | Vercel | Render
+JavaScript | React | Node.js | Express.js | HTML | CSS | Git | GitHub | Vercel | Render | Python
