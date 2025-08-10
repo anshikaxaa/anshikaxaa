@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anshika Singh</h1>
+<h1 align="center">Hi, I'm Anshika Singh</h1>
 <h3 align="center">Final-Year Engineering Student | MERN Stack projects & AI integration</h3>
 
 ---
 
-### 🚀 About Me
+### About Me
 - Final-year Computer Science Engineering student based in Chennai, India.
 - Passionate about **Full-Stack Development** and **AI-powered applications**.
 - Currently learning **JavaScript**, **React.js**, and **Python (AI/ML)**.
