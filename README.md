@@ -13,6 +13,6 @@ Hi, I'm Anshika Singh<br>Passionate about Full-Stack Development and AI-powered 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikaxaa&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anshikaxaa&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=anshikaxaa&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
