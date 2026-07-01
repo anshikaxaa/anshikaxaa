@@ -1,6 +1,3 @@
-# About Me:
-Hi, I'm Anshika Singh<br>Passionate about Full-Stack Development and AI-powered applications.<br>
-
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshikaxaa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshikaxaaa@gmail.com) 
